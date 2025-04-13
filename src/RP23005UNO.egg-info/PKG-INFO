@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: RP23005UNO
+Version: 1.0.2
+Summary: Librería para resolver sistemas de ecuaciones
+Author-email: Jennifer Pleitez <rp23005@ues.edu.sv>
+License: MIT
+Project-URL: Repository, https://github.com/rp23005/RP23005UNO.git
+Keywords: ecuaciones,álgebra lineal,bisección,gauss,jacobi
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.24
+Dynamic: license-file
+
 # rp23005uno
 
 **rp23005uno** es una librería en Python diseñada para resolver sistemas de ecuaciones lineales y no lineales. Está pensada como una herramienta educativa para estudiantes o profesionales que quieran aplicar métodos numéricos clásicos con un enfoque práctico y accesible.
